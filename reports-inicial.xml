@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.21.2">
+<file name="C:\Users\User\Downloads\CodingStandards_Java\.\version-inicial\Main-inicial.java">
+<error line="2" column="17" severity="error" message="Usar la importación con &apos;.*&apos; debería evitarse - java.util.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="3" column="7" severity="error" message="El nombre &apos;student&apos; debe coincidir con el patrón &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="3" column="14" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="4" column="39" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="11" severity="error" message="&apos;=&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="11" severity="error" message="&apos;=&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="6" column="1" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="6" column="1" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="6" column="10" severity="error" message="&apos;&gt;&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="6" column="10" severity="error" message="&apos;&gt;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+</checkstyle>
